@@ -1,0 +1,1 @@
+const util_lk0c = (d: any) => d;
